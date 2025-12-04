@@ -1,0 +1,8 @@
+{
+  "name": "Lumina LMS",
+  "description": "A comprehensive, modern Learning Management System with role-based dashboards, AI-powered tutoring, live classrooms, and performance tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
